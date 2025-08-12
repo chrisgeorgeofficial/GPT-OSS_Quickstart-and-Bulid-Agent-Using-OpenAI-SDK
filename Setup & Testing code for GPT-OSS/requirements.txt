@@ -1,0 +1,2 @@
+openai
+python-dotenv #if importing the nvidia api using env
