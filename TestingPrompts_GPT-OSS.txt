@@ -5,6 +5,9 @@ strawberry_prompt = """
 How many 'r's in strawberry?
 """
 
+reverse_word_prompt = "who's name spelled backward is “ned I bet ten i bore oj.”"
+
+
 # Instruction Following Test Prompt
 Instruction_Following_Test_Prompt = "Explain how to make a peanut butter sandwich in exactly 5 steps, each step starting with an action verb."
 
